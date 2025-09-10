@@ -1,0 +1,91 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family: Helvetica, sans-serif;
+}
+
+
+h3{
+    color:aliceblue;
+    text-align: center;
+    position: bottom;
+    padding-bottom: 90%;
+}
+.imagebox{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.image{
+    margin:20px;
+    height:500px;
+    width:400px;
+    background-image:url(/5479108.jpg);
+    border:2px solid black;
+    border-radius:24px;
+    background-size:cover;
+}
+
+.navbar{
+    height:5rem;
+    background-color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom:1px solid #0000000d;
+    padding: 0px 30px;
+}
+
+.contain{
+    height:50rem;
+    background-image: url(/garba.jpg);
+    background-size:cover;
+}
+
+.headerimg{
+    height:50rem;
+    background-color:#00000057;
+}
+
+#headertxt{
+    color:white;
+    text-align: center;
+    font-size:4rem;
+    font-weight: 600;
+    padding-top:4rem;
+    text-shadow: #00000066 3px 0 10px;
+}
+
+.logo{
+    height:76px;
+    width:174px;
+    background-image:url(/logo.png);
+    background-size:cover;
+}
+
+.reflink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    height:3rem;
+    width: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:white;
+    text-decoration:none;
+    font-weight: bolder;
+    border-radius:16px;
+    margin-right:28px;
+}
+
+.request{
+    height:20px;
+    background-color: aquamarine;
+}
