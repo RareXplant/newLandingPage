@@ -22,7 +22,7 @@ h3{
     margin:20px;
     height:500px;
     width:400px;
-    background-image:url(/5479108.jpg);
+    background-image:url(5479108.jpg);
     border:2px solid black;
     border-radius:24px;
     background-size:cover;
@@ -40,7 +40,7 @@ h3{
 
 .contain{
     height:50rem;
-    background-image: url(/garba.jpg);
+    background-image: url(garba.jpg);
     background-size:cover;
 }
 
@@ -61,7 +61,7 @@ h3{
 .logo{
     height:76px;
     width:174px;
-    background-image:url(/logo.png);
+    background-image:url(logo.png);
     background-size:cover;
 }
 
